@@ -157,7 +157,7 @@ a{
 }
 
 .team-position,
-.portfoloi-text{
+.portfolio-text{
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
@@ -165,7 +165,7 @@ a{
 .footer-text{
     color: var(--cloud);
     line-height: 1.5;
-    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 
